@@ -30,7 +30,7 @@
 
 	<!-- 扫描基本包 Mapper 接口 Mapper文件 -->
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-		<property name="basePackage" value="cn.itcast.core.dao" />
+		<property name="basePackage" value="shop.itgo.core.dao" />
 	</bean>
 
 </beans>
